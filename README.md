@@ -1,4 +1,4 @@
-# Modern WP Theme
+# Xarop WP Theme
 
 A modern WordPress theme built with SASS, Pico CSS, Twig templating, and Advanced Custom Fields (ACF) Blocks.
 
@@ -24,7 +24,7 @@ A modern WordPress theme built with SASS, Pico CSS, Twig templating, and Advance
 1. Clone this repository to your WordPress themes directory:
    ```bash
    cd wp-content/themes
-   git clone [repository-url] modern-wp-theme
+   git clone [repository-url] your-theme
    ```
 
 2. Install PHP dependencies:
